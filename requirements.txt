@@ -1,0 +1,6 @@
+deep_translator
+futures 
+time
+random
+pathlib
+pyqt6
